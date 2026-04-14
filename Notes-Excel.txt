@@ -1,0 +1,5 @@
+LSWR
+L-Listening
+S-Speaking
+W-Writing
+R-Reading
